@@ -1,0 +1,46 @@
+
+.container{
+	flex-direction: column;
+	/* background-color: aquamarine; */
+	height: 700px;
+	align-items: center;
+	justify-content: center;
+}
+.logo{
+	text-align: center;
+	height: 200rpx;
+	width: 378px;
+	margin-left: 3px;
+	font-size: 46px;
+	margin-top: 100rpx;
+}
+.platForName{
+	/* background-color: yellow; */
+	text-align: center;
+	font-size: 40px;
+	height: 100px;
+	width: 400px;
+	
+	/* background-color: #4095E5; */
+	margin-top: 30px;
+}
+.loginBtn{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 24px;
+	width: 300px;
+	height: 80px;
+	margin-top: 80px;
+	background-color: #4095E5;
+	color: #FFFFFF;
+}
+.version{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 22px;
+	color: #C0C0C0;
+	margin-bottom: 10px;
+}
+

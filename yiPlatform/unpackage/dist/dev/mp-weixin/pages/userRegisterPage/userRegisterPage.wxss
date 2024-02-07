@@ -1,0 +1,75 @@
+
+.container{
+	height: 1500rpx;
+	width: 800rpx;
+	/* background-color: aliceblue; */
+	display: flex;
+	flex-direction: column;
+	/* justify-content: center; */
+	align-items: center;
+}
+.title{
+	width: 400rpx;
+	height: 100rpx;
+	/* background-color: antiquewhite; */
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 100rpx;
+	align-items: center;
+}
+.textInputContainer{
+	width: 800rpx;
+	height: 1600rpx;
+	/* background-color: azure; */
+}
+.textInputItem{
+	margin-top: 30px;
+	margin-left: 40px;
+	padding-left: 16px;
+	align-items: center;
+	border: 1px solid darkgray;
+	color: black;
+	font-size: 22px;
+	font-weight: 500;
+	/* background-color: aliceblue; */
+	width: 600rpx;
+	height: 80rpx;
+}
+.combox{
+	width: 600rpx;
+	height: 80rpx;
+	margin-top: 30px;
+	margin-left: 40px;
+	border: 3px solid #C6C6C6;
+	font-size: 24px;
+}
+.codeContainer{
+	width: 620rpx;
+	height: 100rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-left: 40px;
+	margin-top: 30px;
+	border: 2px solid #C6C6C6;
+}
+.codeIput{
+	width: 400rpx;
+	height: 80rpx;
+	font-size: 22px;
+	text-align: left;
+	padding-left: 20rpx;
+}
+.getCodeBtn{
+	width: 280rpx;
+	height: 80rpx;
+}
+.loginBtn{
+	width: 640rpx;
+	height: 100rpx;
+	color: #FFFFFF;
+	background-color: #4095E5;
+	margin-top: 30px;
+}
+
